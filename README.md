@@ -1,1 +1,1 @@
-# FS-Project
+# FS-Project: Full Stack Project
